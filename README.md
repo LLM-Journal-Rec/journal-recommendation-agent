@@ -156,11 +156,11 @@ df_result.to_csv("data/results.csv", index=False)
 If you use this tool in your research, please cite:
 
 ```
-@article{yourpaper2025,
-  title   = {Your Paper Title},
-  author  = {Your Name},
-  journal = {Your Journal},
-  year    = {2025}
+@article{paper2026,
+  title   = {Paper Title},
+  author  = {Name},
+  journal = {Journal},
+  year    = {2026}
 }
 ```
 
