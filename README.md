@@ -169,3 +169,10 @@ If you use this tool in your research, please cite:
 ## License
 
 This project is licensed under the MIT License.
+
+## Maintenance
+
+The candidate journal list (`data/journal_scope.csv`) will be updated 
+periodically to reflect changes in journal scopes and expansions of 
+the journal pool. We recommend checking the latest release for the 
+most up-to-date version.
